@@ -3,10 +3,7 @@
   "variables": [
     {
       "names": [
-        "message",
-        "subject",
-        "chapter",
-        "topic"
+        "message"
       ],
       "values": [
         [
