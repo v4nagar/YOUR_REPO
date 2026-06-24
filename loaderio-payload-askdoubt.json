@@ -1,0 +1,615 @@
+{
+  "version": 1,
+  "variables": [
+    {
+      "names": [
+        "message",
+        "subject",
+        "chapter",
+        "topic"
+      ],
+      "values": [
+        [
+          "Which of the following is/are controlled by the use of insecticides in crop protection management?",
+          "Biology",
+          "PLANT DISEASE AND ECONOMIC IMPORTANCE OF PLANTS",
+          "Economic importance of plants (Economic importance of plants)"
+        ],
+        [
+          "A triangular glass prism has how many rectangular lateral surfaces?",
+          "MATHEMATICS",
+          "GEOMETRY",
+          "TRIANGLE (TRIANGLE)"
+        ],
+        [
+          "Which of the following organisms multiplies by the means of multiple fission mode of reproduction?",
+          "Biology",
+          "REPRODUCTION IN ANIMALS AND HUMAN REPRODUCTIVE SYSTEM",
+          "Asexual reproduction (Asexual reproduction)"
+        ],
+        [
+          "Which of the following is a general physical property of nonmetals?",
+          "Chemistry",
+          "Matter",
+          "Physical classification of matter"
+        ],
+        [
+          "For the life processes, the transfer of a source of energy from outside the body of the organism is called \\\\( ........ \\\\).",
+          "Biology",
+          "NUTRITION IN ANIMALS",
+          "Types of nutrition (Types of nutrition)"
+        ],
+        [
+          "Electrons revolve around the nucleus in fixed paths called:",
+          "Physics",
+          "General",
+          "Atomic & Nuclear Physics (Atomic & Nuclear Physics)"
+        ],
+        [
+          "Neurons have many short, branched parts or processes attached to cell body called \\\\( ........ \\\\).",
+          "Biology",
+          "HUMAN NERVOUS SYSTEM",
+          "Stucture of Neurons"
+        ],
+        [
+          "Which of the following life processes is NOT essential to maintain the life of an individual organism?",
+          "Biology",
+          "NUTRITION IN ANIMALS",
+          "Types of nutrition (Types of nutrition)"
+        ],
+        [
+          "A baby pulls a toy car along the ground. If the force and displacement are in the same direction, the work done is:",
+          "Physics",
+          "Mechanics",
+          "Work, Energy, and Power"
+        ],
+        [
+          "Liquids have:",
+          "Chemistry",
+          "Matter",
+          "Physical classification of matter"
+        ],
+        [
+          "What is corrosion?",
+          "Chemistry",
+          "Chemical Reactions and Equations",
+          "Corrosion"
+        ],
+        [
+          "From the given compounds, which is used as a fuel additive?",
+          "Chemistry",
+          "Chemical Reactions and Equations",
+          "Organic Chemistry"
+        ],
+        [
+          "What is the primary cause of reverberation in a hall or room?",
+          "Physics",
+          "Sound and Waves",
+          "Reverberation"
+        ],
+        [
+          "Which of the following is considered a major factor contributing to poor living standards in society?",
+          "ECONOMICS",
+          "Poverty",
+          "Concept of Poverty"
+        ],
+        [
+          "An object moves along a straight path from point O to point A (100 m away), then immediately reverses and stops at point B, which is 30 m away from A back towards O. What is the total distance covered and the magnitude of the displacement, respectively?",
+          "Physics",
+          "Motion",
+          "Distance and displacements"
+        ],
+        [
+          "The total resistance of 10 resistors of equal resistance \\\\( R \\\\) arranged in series arrangement is ........ .",
+          "Physics",
+          "Electricity",
+          "Resistance  (Resistance )"
+        ],
+        [
+          "In circuit diagrams, a zigzag line is used to represent which of the following?",
+          "Physics",
+          "Electricity",
+          "Resistance  (Resistance )"
+        ],
+        [
+          "A runner completes one round of a circular track of radius \\\\(175\\\\,\\\\mathrm{m}\\\\) in \\\\(35\\\\) seconds. The average velocity after one round is ........ .",
+          "Physics",
+          "Motion",
+          "Distance and displacements"
+        ],
+        [
+          "The Golgi apparatus is associated with which of the following organelles?",
+          "Biology",
+          "CELL: THE UNIT OF LIFE",
+          "Cell structure (Cell structure)"
+        ],
+        [
+          "Which of the following statements is correct about 'Bohr's model of an Atom'?",
+          "Physics",
+          "General",
+          "Atomic & Nuclear Physics (Atomic & Nuclear Physics)"
+        ],
+        [
+          "Where should an object be placed in front of a convex lens to get a real image of the size of the object?",
+          "Physics",
+          "Heat & Light",
+          "Light (Light)"
+        ],
+        [
+          "What is the chemical formula for Glucose?",
+          "Chemistry",
+          "Chemical Reactions and Equations",
+          "Carbohydrates"
+        ],
+        [
+          "Neutralisation reaction involves the combination of \\\\( ........ \\\\) from the acid and \\\\( ........ \\\\) from the base to form water molecules.",
+          "Chemistry",
+          "Chemical Reactions and Equations",
+          "Double Displacement Reaction"
+        ],
+        [
+          "A passenger standing in a moving bus suddenly falls forward when the bus stops abruptly. This illustrates which of the following laws?",
+          "Physics",
+          "Motion",
+          "Motion in a straight line  (Motion in a straight line )"
+        ],
+        [
+          "Which of the following nutrients is required in large quantities by plants?",
+          "Biology",
+          "NUTRITION AND MINERAL NUTRIENTS IN PLANTS",
+          "Essential elements (Essential elements)"
+        ],
+        [
+          "Diana is thrice as old as Teresa and Homi is twice as old as Diana. If Diana’s age is 4 years less than the average age of all three, then Homi’s age (in years) is:",
+          "Arithmetic",
+          "Age Problems",
+          "Age Problems"
+        ],
+        [
+          "A typist takes 40 minutes to type 2 pages. How long (in minutes) will he take to type 81 pages?",
+          "Arithmetic",
+          "Unitary Method",
+          "Unitary Method"
+        ],
+        [
+          "In a box containing blue, yellow, and orange tokens, the ratio of blue to yellow tokens was \\\\( 13: 19 \\\\), while the ratio of orange to blue tokens was \\\\( 10: 3 \\\\). What was the ratio of orange to yellow tokens?",
+          "Arithmetic",
+          "Ratios and Proportions",
+          "Ratios and Proportions"
+        ],
+        [
+          "The value of \\\\( \\\\frac{(0.85)^{3}-(0.1)^{3}}{(0.85)^{2}+0.085+0.01} \\\\) is:",
+          "MATHEMATICS",
+          "ALGEBRA",
+          "ALGEBRAIC IDENTITIES (ALGEBRAIC IDENTITIES)"
+        ],
+        [
+          "For a trip of \\\\( \\\\mathbf{6 0 0 ~ k m} \\\\), a truck travels the first \\\\( \\\\mathbf{3 0 0 ~ k m} \\\\) at a speed of \\\\( \\\\mathbf{4 2 ~ k m} / \\\\mathbf{h r} \\\\). At what speed (in km/hr) should it cover the remaining distance, so that the average speed for the entire journey is \\\\( \\\\mathbf{6 3 ~ k m} / \\\\mathbf{h r} \\\\) ?",
+          "Arithmetic",
+          "Average Speed",
+          "Average Speed"
+        ],
+        [
+          "A 435-metre-long train crosses a platform thrice its length in 87 seconds. What is the speed of the train (in km/hr)?",
+          "Arithmetic",
+          "",
+          ""
+        ],
+        [
+          "A and B working together can do a piece of work in 3 days. B alone can do the same work in \\\\( \\\\mathbf{21} \\\\) days. How long (in days) will A alone take to do double the work?",
+          "Arithmetic",
+          "Work and Time",
+          "Work and Time"
+        ],
+        [
+          "<table class=\\\"fk_extracted_content_table\\\"><tr><td colspan=\\\"4\\\">Q. 33 Simplify: \\\\( \\\\frac{1-\\\\cos 2\\\\theta}{\\\\sin 2\\\\theta} \\\\)</td></tr><tr><td>A. \\\\( \\\\cosec \\\\theta \\\\)</td><td>B. \\\\( \\\\tan \\\\theta \\\\)</td><td>C. \\\\( \\\\sin \\\\theta \\\\)</td><td>D. \\\\( \\\\cot \\\\theta \\\\)</td></tr></table>",
+          "MATHEMATICS",
+          "TRIGONOMETRY",
+          "TRIGONOMETRY (TRIGONOMETRY)"
+        ],
+        [
+          "<p>If 20% of a number is added to 102, then the result is the same number. 60% of the same number is:</p>",
+          "Arithmetic",
+          "Percentage",
+          "Percentage"
+        ],
+        [
+          "The average of \\\\(4, 12, 8, 10, 16, 14, 9, 20, 18, 22, 15\\\\) and \\\\(K\\\\) is \\\\(14\\\\). Find the value of \\\\(K\\\\).",
+          "Arithmetic",
+          "Average",
+          "Arithmetic Mean"
+        ],
+        [
+          "Find the simple interest (in ₹) on ₹4,000 at 6\\\\% per annum rate of interest for the period from 21 February 2024 to 22 April 2024.",
+          "Arithmetic",
+          "Simple Interest",
+          "Simple Interest"
+        ],
+        [
+          "In a fruit basket, there are twice as many oranges as apples. If there are a total of 36 fruits, how many oranges are there?",
+          "Arithmetic",
+          "Linear Equations",
+          "Linear Equations in One Variable"
+        ],
+        [
+          "The diagonals of a quadrilateral are perpendicular bisectors of each other. If the length of one diagonal is 8 cm and the area of the quadrilateral is \\\\( 48 \\\\mathrm{~cm}^{2} \\\\), find the length (in cm) of the other diagonal.",
+          "MATHEMATICS",
+          "MENSURATION",
+          "MENSURATION 2-D (MENSURATION 2-D)"
+        ],
+        [
+          "If \\\\( x+y+z=0 \\\\) and \\\\( x y z=21 \\\\), then \\\\( x^{3}+y^{3}+z^{3} \\\\) is equal to:",
+          "MATHEMATICS",
+          "ALGEBRA",
+          "ALGEBRAIC IDENTITIES (ALGEBRAIC IDENTITIES)"
+        ],
+        [
+          "Simplify: \\\\( \\\\left(\\\\frac{3^{4} \\\\times 9^{-2}}{27^{-1} \\\\times 3^{-3}}\\\\right)^{\\\\frac{1}{3}} \\\\)",
+          "MATHEMATICS",
+          "ALGEBRA",
+          "ALGEBRAIC EXPRESSION (ALGEBRAIC EXPRESSION)"
+        ],
+        [
+          "The price per unit of lemon candy to strawberry candy is in the ratio \\\\(4:14\\\\), and a family consumes them in the ratio \\\\(23:2\\\\) by quantity. Find the ratio of the expenditure on strawberry candy to that on lemon candy.",
+          "Arithmetic",
+          "Ratio and Proportion",
+          "Ratio and Proportion"
+        ],
+        [
+          "The arithmetic mean of the observations \\\\(79, 42, 47, 77, 49, 75, 56, 26\\\\) and \\\\(35\\\\) is:",
+          "Arithmetic",
+          "",
+          ""
+        ],
+        [
+          "A credit card payment that will settle a bill for 290 microwaves at ₹1,050 per microwave with successive discounts of \\\\(4\\\\%\\\\) and \\\\(25\\\\%\\\\), with a further discount of \\\\(5\\\\%\\\\) on card payment is:",
+          "Arithmetic",
+          "Successive Discounts",
+          "Successive Discounts"
+        ],
+        [
+          "P is any point inside the rectangle \\\\(ABCD\\\\). If \\\\(PA = 57 \\\\mathrm{~cm}\\\\), \\\\(PB = 9 \\\\mathrm{~cm}\\\\), and \\\\(PC = 54 \\\\mathrm{~cm}\\\\), then the length \\\\(PD\\\\) (in cm) is equal to:",
+          "MATHEMATICS",
+          "GEOMETRY",
+          "QUADRILATERAL (QUADRILATERAL)"
+        ],
+        [
+          "A shop that sells towels has offers going on, wherein customers can buy 2 towels and get 2 free. What is the percentage discount that customers get?",
+          "Arithmetic",
+          "Percentage",
+          "Percentage Discount Calculation"
+        ],
+        [
+          "A cylindrical water tank has a diameter of 2.8 m and a height of 3.5 m. It is to be painted on both its outer curved surface and two circular ends. If the cost of painting is ₹ \\\\(25 / \\\\mathrm{m}^{2}\\\\), find the total cost of painting the tank. (Use \\\\(\\\\pi=\\\\frac{22}{7}\\\\))",
+          "Arithmetic",
+          "Surface Area and Volume",
+          "Surface Area and Volume"
+        ],
+        [
+          "The cost of 1 litre milk is equal to the selling price of 800 ml milk. The percentage of profit is \\\\( ........ \\\\).",
+          "Arithmetic",
+          "Profit and Loss",
+          "Profit and Loss"
+        ],
+        [
+          "At the beginning of the poll, Rahul received 52\\\\% of the total votes and Leena received 48\\\\% of the total votes. The total voting was of \\\\( 3,72,000 \\\\) votes. How many votes did Leena earn above \\\\( 1,00,000 \\\\)?",
+          "Arithmetic",
+          "Percentage",
+          "Percentage"
+        ],
+        [
+          "Akriti earns ₹ \\\\( \\\\mathbf{54,500} \\\\) monthly and saves 17% of her salary. Find her monthly expenditure.",
+          "Arithmetic",
+          "Percentage",
+          "Percentage"
+        ],
+        [
+          "Three men can dig a well 39 feet deep in 4 days. How many men can dig a well 78 feet deep in 12 days?",
+          "Arithmetic",
+          "Work and Time",
+          "Work and Time"
+        ],
+        [
+          "What should come in place of the question mark (?) in the given series? 921, 923, 927, 933, 941, ?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Number Series",
+          "Number Series"
+        ],
+        [
+          "Select the triad that follows the same pattern as the one followed by the two triads given below. Both triads follow the same pattern.<br><br>LF-OI-RT<br>NH-QK-TV",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Letter and Number Series",
+          "Letter Series"
+        ],
+        [
+          "Refer to the number series given below and answer the question that follows. Counting to be done from left to right only.<br>(NOTE: All numbers are single-digit numbers only.)<br>(Left) 527547985362157497252437847 (Right)<br>How many such odd digits are there, each of which is immediately preceded by an even digit and also immediately followed by an even digit?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Number Series",
+          "Number Series"
+        ],
+        [
+          "Seven people, A, B, C, D, E, F, and G, are sitting in a row, facing the north. Only two people sit to the left of A. Only three people sit between A and G. D sits second to the right of A. Only two people sit between D and C. E sits at some place to the right of F but at some place to the left of B. How many people sit to the right of \\\\( C \\\\)?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Seating Arrangement",
+          "Linear Seating Arrangement"
+        ],
+        [
+          "Ronak starts from Point A and drives 6 km towards the south. He then takes a left turn, drives 5 km, turns left and drives 14 km. He then takes a left turn and drives 11 km. He takes a final left turn, drives 8 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90-degree turns only unless specified.)",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Direction and Distance",
+          "Direction and Distance Reasoning"
+        ],
+        [
+          "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br><br>Statements: All geysers are lights. No light is an oven.<br><br>Conclusion (I): No geyser is an oven.<br><br>Conclusion (II): Some ovens are lights.",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Logical Reasoning",
+          "Syllogism"
+        ],
+        [
+          "Refer to the following number series and answer the question that follows (all numbers are single digit numbers only). (Counting to be done from left to right only.)<br>(Left) 631123285761372696924628631 (Right)<br>How many such even numbers are there each of which is immediately preceded by an odd number and also immediately followed by an odd number?",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Number Series",
+          "Number Series"
+        ],
+        [
+          "A, B, C, E, F, P and Q are sitting around a circular table, facing the centre. F sits third to the left of C. Only one person sits between C and P when counted from the left of P. Only two people sit between B and E when counted from the right of E. A is an immediate neighbour of B. Who sits to the immediate left and right of Q, respectively?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Circular Seating Arrangement",
+          "Circular Seating Arrangement"
+        ],
+        [
+          "In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one which follows the same logic.<br><br>WEST - EWST - WSTE<br>TOPS - OTPS - TPSO",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Letter and Pattern Series",
+          "Letter and Series Transformation"
+        ],
+        [
+          "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br>(34, 70, 1)<br>(21, 92, 25)",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Number Series and Sequences",
+          "Number Pattern Recognition"
+        ],
+        [
+          "If 'A' stands for '+', 'B' stands for '-', 'C' stands for '÷' and 'D' stands for '×', what will come in place of the question mark (?) in the following equation? \\\\(75\\\\;B\\\\;4\\\\;D\\\\;20\\\\;A\\\\;40\\\\;C\\\\;8 = ?\\\\)",
+          "Arithmetic",
+          "",
+          ""
+        ],
+        [
+          "Select the pair that follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern.<br>AWY - UQS<br>RNP - LHJ",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Coding-Decoding",
+          "Coding-Decoding"
+        ],
+        [
+          "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br><br>Statements:<br>All lotions are creams.<br>All creams are soaps.<br>No cream is a facewash.<br><br>Conclusions:<br>(I) No soap is a facewash.<br>(II) No lotion is a facewash.",
+          "Reasoning",
+          "SYLLOGISM",
+          "Syllogism (Syllogism)"
+        ],
+        [
+          "A, B, C, R, S, T and U are sitting around a circular table facing the centre of the table. Only one person sits between S and T when counted from the left of T. R sits third to the right of A. U sits third to the left of C. R sits to the immediate right of U. B is not an immediate neighbour of U. How many people sit between B and T when counted from the right of B?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Circular Seating Arrangement",
+          "Circular Seating Arrangement"
+        ],
+        [
+          "What should come in place of the question mark (?) in the given series? 161 165 173 185 201 ?",
+          "Quantitative Aptitude(मात्रात्मक योग्यता)",
+          "Number Series",
+          "Number Series"
+        ],
+        [
+          "In a row of 50 students facing north, Neetu is \\\\(12^{\\\\text{th}}\\\\) from the right end. If Kaden is \\\\(6^{\\\\text{th}}\\\\) to the left of Neetu, what is Kaden's position from the left end of the line?",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Ranking and Ordering",
+          "Ranking and Ordering"
+        ],
+        [
+          "In a particular coding system, 'house' is represented as '35791' and 'hose' is encoded as '3751'. How is 'u' represented in this coding system?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Coding-Decoding",
+          "Coding-Decoding"
+        ],
+        [
+          "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Alphabet and Letter Series",
+          "Alphabet Series"
+        ],
+        [
+          "In a row of people all facing north, Hirani is \\\\(17^{\\\\text{th}}\\\\) from the left end, and Tushar is \\\\(32^{\\\\text{nd}}\\\\) from the left end. Tushar is exactly between Hirani and Kiran. If Kiran is \\\\(12^{\\\\text{th}}\\\\) from the right end of the line, how many people are there in the row?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Ranking and Ordering",
+          "Ranking and Ordering"
+        ],
+        [
+          "Each of the digits in the number 4876231 is arranged in ascending order from left to right. What will be the sum of the digits which are second from the left and third from the right in the new number thus formed?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Number Arrangement and Ordering",
+          "Number Arrangement and Ordering"
+        ],
+        [
+          "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Alphabet and Letter Series",
+          "Alphabet Series"
+        ],
+        [
+          "In a certain code language, 'PEARL' is coded as '18723' and 'PAYER' is coded as '82736'. What is the code for 'Y' in the given code language?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Coding-Decoding",
+          "Coding-Decoding"
+        ],
+        [
+          "This question is based on the five three-digit numbers given below.<br>(Left) 567 862 426 326 749 (Right)<br>(Example: 697 - First digit = 6, second digit = 9 and third digit = 7)<br>(NOTE: All operations to be done from left to right.)<br>If 2 is added to the second digit of every number, in how many numbers will the second digit be exactly divisible by the third digit?",
+          "Arithmetic",
+          "Number Operations",
+          "Number Theory"
+        ],
+        [
+          "Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete?<br><br>BBO 2 ECM -4 HDK 8 KEI -16 ?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Series Completion",
+          "Series Completion"
+        ],
+        [
+          "What should come in place of the question mark (?) in the given series? \\\\(214, 217, 222, 229, 238, ?\\\\)",
+          "MATHEMATICS",
+          "NUMBER SYSTEM",
+          "ARITHMETIC PROGRESSION (ARITHMETIC PROGRESSION)"
+        ],
+        [
+          "What will come in the place of '?' in the following equation, if ' + ' and ' ' ' are interchanged and ' \\\\( \\\\mathbf{x} \\\\) ' and ' \\\\( \\\\boldsymbol{\\\\gamma} \\\\) ' are interchanged?<br>\\\\[<br>113 \\\\div 6+98 \\\\times 2-156=?<br>\\\\]<br>",
+          "Arithmetic",
+          "General",
+          "Arithmetic Operations"
+        ],
+        [
+          "In a certain code language,<br>\\\\( A + B \\\\) means 'A is the sister of B',<br>\\\\( A @ B \\\\) means 'A is the brother of B',<br>\\\\( A - B \\\\) means 'A is the wife of B', and \\\\( A \\\\# B \\\\) means 'A is the father of B'.<br><br>How is O related to V if '\\\\( O @ P + T - G \\\\# V \\\\)'?",
+          "Reasoning",
+          "BLOOD RELATIONS",
+          "Coded Blood relation (Coded Blood relation)"
+        ],
+        [
+          "What should come in place of the question mark (?) in the given series based on the English alphabetical order? VNQ UMP TLO SKN ?",
+          "Reasoning and General Intelligence(Reasoning and General Intelligence)",
+          "Alphabet and Letter Series",
+          "Alphabet Series"
+        ],
+        [
+          "Mr. Zzz starts from Point A and drives 7 km towards the South. He then takes a left turn, drives 21 km, turns left and drives 16 km. He then takes a left turn and drives 26 km. He takes a final left turn, drives 9 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90 degrees turns only unless specified.)",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Direction Sense",
+          "Direction Sense"
+        ],
+        [
+          "Refer to the given series and answer the question that follows. All numbers are single digit numbers only. (Counting to be done from left to right only) (Left) 64923277983879997958991 (Right) How many such odd digits are there, each of which is immediately preceded by an even digit and also immediately followed by an odd digit?",
+          "General Intelligence & Reasoning(सामान्य बुद्धि और तर्कशक्ति)",
+          "Number Series",
+          "Number Series"
+        ],
+        [
+          "In which of the following months was the grand finale and prize distribution ceremony of the Defence Innovation Challenge for Excellence (DICE-2024) organised during Aero India 2025 in Bengaluru by the Marathwada Accelerator for Growth and Incubation Council (MAGIC)?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs",
+          "Defence and Aerospace Current Affairs"
+        ],
+        [
+          "Approximately how many hectares are targeted for increased forest and tree cover by 2030 as per the Revised Green India Mission (GIM) Plan released in 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Environmental Policy and Conservation",
+          "Environmental Policy"
+        ],
+        [
+          "Who took over as the Chairperson of the Securities and Exchange Board of India (SEBI) in March 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Indian Economy and Financial Institutions",
+          "SEBI (Securities and Exchange Board of India)"
+        ],
+        [
+          "Which ministry released the 'Model Rules for Felling Trees in Agricultural Lands' in 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Environmental Policies and Governance",
+          "Environmental Policy and Governance"
+        ],
+        [
+          "In which of the following months, during the 'Genomics Data Conclave', was the 'GenomeIndia Data' dedicated to the researchers by Narendra Modi, Prime Minister of India?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs",
+          "Current Affairs (India)"
+        ],
+        [
+          "Which State Government inaugurated the Rajiv Gandhi Van Samvardhan Yojana on 2 June 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs",
+          "Indian State Government Schemes and Policies"
+        ],
+        [
+          "The Lokpal of India celebrated its \\\\(1^{\\\\text{st}}\\\\) Foundation Day on which date in 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Indian Polity and Governance",
+          "Indian Polity and Governance"
+        ],
+        [
+          "In which state did the Defence Research and Development Organisation (DRDO) successfully test its indigenous Stratospheric Airship Platform on 3 May 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs",
+          "Defence Technology and Research"
+        ],
+        [
+          "Finland became the \\\\( ........ \\\\) European country to exit the Ottawa landmine treaty in June 2025.",
+          " General Awareness and Current Affairs(.)",
+          "International Relations and Treaties",
+          "International Relations and Treaties"
+        ],
+        [
+          "Which of the following Indian Constitutional Amendment Acts is also known as Nari Shakti Vandan Adhiniyam?",
+          "Indian Polity",
+          "Constitutional Amendments",
+          "Constitutional Amendments"
+        ],
+        [
+          "How many total medals did India win at the 2025 World Boxing Cup?",
+          " General Awareness and Current Affairs(.)",
+          "Sports and Current Affairs",
+          "Sports and Current Affairs"
+        ],
+        [
+          "As per revised Reserve Bank of India guidelines in April 2025, from what minimum age can minors independently open and operate savings accounts?",
+          " General Awareness and Current Affairs(.)",
+          "Banking and Finance",
+          "Banking Regulations"
+        ],
+        [
+          "Who among the following was appointed as Deputy Chief Executive Officer (CEO) of SBI General Insurance in June 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs - Business and Finance",
+          "Current Affairs"
+        ],
+        [
+          "Which of the following countries will be hosting the World Rowing Championships 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Current International Events",
+          "International Sporting Events"
+        ],
+        [
+          "Which award did former cyclist Sucha Singh receive in 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Sports Awards and Honours",
+          "Sports Awards and Honours"
+        ],
+        [
+          "Which of the following is NOT a main feature of 'Control of Water Pollution (Grant, Refusal or Cancellation of Consent) Guidelines', 2025?",
+          "Environment and Ecology",
+          "Environmental Act and Policies",
+          "The Water (Prevention & Control of Pollution) Act, 1974"
+        ],
+        [
+          "Which athlete won the Arjuna Award for para-athletics in 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Sports Awards and Honours",
+          "Arjuna Award"
+        ],
+        [
+          "Which of the following platforms will provide training to the new recruits inducted during the \\\\( 15{ }^{\\\\text {th }} \\\\) edition of the Rozgar Mela in April 2025, apart from formal skill programmes?",
+          " General Awareness and Current Affairs(.)",
+          "Government Schemes and Initiatives",
+          "Government Schemes and Initiatives"
+        ],
+        [
+          "In January 2025, the World Economic Forum annual meeting was held in \\\\( ........ \\\\).",
+          " General Awareness and Current Affairs(.)",
+          "International Organizations and Forums",
+          "World Economic Forum"
+        ],
+        [
+          "Which film by Aamir Khan was released in June 2025?",
+          " General Awareness and Current Affairs(.)",
+          "Current Affairs",
+          "Indian Cinema"
+        ]
+      ]
+    }
+  ]
+}
